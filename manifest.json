@@ -1,0 +1,15 @@
+{
+  "name": "Matt's Word Quest",
+  "short_name": "Word Quest",
+  "display": "standalone",
+  "start_url": "./",
+  "background_color": "#FFF8F0",
+  "theme_color": "#EA580C",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
